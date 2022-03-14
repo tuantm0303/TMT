@@ -1,12 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)](https://minhdung.io)
-<h1 align="center">Hi 👋, I'm tuantm0303</h1>
+<h1 align="center">Hi 👋, I'm Trịnh Minh Tuấn</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuantm0303&label=Profile%20views&color=0e75b6&style=flat" alt="tuantm0303" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuantm0303" alt="tuantm0303" /></a> </p>
 
-- 🔭 I’m currently working on **fpt**
+- 🔭 I’m currently working on **FPT**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
